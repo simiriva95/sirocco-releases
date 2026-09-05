@@ -10,4 +10,4 @@ Builds are not notarized yet, so macOS refuses the first launch. Clear the quara
 xattr -dr com.apple.quarantine /Applications/Sirocco.app
 ```
 
-14-day free trial from first launch. The source code is private during the beta.
+14-day free trial from first launch. Source: https://github.com/simiriva95/sirocco
