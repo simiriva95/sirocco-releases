@@ -11,14 +11,5 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/simiriva95/sirocco-releases/releases/download/v0.7.0/Sirocco-0.7.0.dmg" length="2039685" type="application/octet-stream" sparkle:edSignature="IKRQ+mLztvXMuBoJUtJ28MrNZD9Pv3dh72y6cG4k8tLhIwrJLbbXA4QC97yScLOFfx4OxuSOvpWjcen5Mq2XBg=="/>
         </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 07 Sep 2026 10:05:28 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/simiriva95/sirocco-releases/releases/download/v0.7.0/Sirocco-0.7.0.dmg" length="2039678" type="application/octet-stream" sparkle:edSignature="w+eE7My7SuNbWWNp+UfcIdayjfS5G/woFcJUIWFYdRq52r4UH5M5vvl8ly/4bNTAkD7OqBDCKskrhZ57a3hoDQ=="/>
-        </item>
     </channel>
 </rss>
